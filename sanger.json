@@ -1,0 +1,46 @@
+[
+    {
+        "navn": "Ordinary",
+        "sjanger": "pop",
+        "artist": "Alex Warren",
+        "varighet": "3:06",
+        "avspillinger": 87000,
+        "sanglink": "https://open.spotify.com/embed/track/6qqrTXSdwiJaq8SO0X2lSe?utm_source=generator&autoplay=true"
+    },
+
+    {
+        "navn": "APT",
+        "sjanger": "pop",
+        "artist": "ROSÉ, Bruno Mars",
+        "varighet": "2:49",
+        "avspillinger": 61000,
+        "sanglink": "https://open.spotify.com/embed/track/4wJ5Qq0jBN4ajy7ouZIV1c?utm_source=generator&autoplay=true"
+    },
+
+    {
+        "navn": "Sjonglerer",
+        "sjanger": "pop",
+        "artist": "Bausa, Baloosh",
+        "varighet": "3:05",
+        "avspillinger": 57000,
+        "sanglink": "https://open.spotify.com/embed/track/48lgNLaCCAGBilhLDTU4zw?utm_source=generator&autoplay=true"
+    },
+
+    {
+        "navn": "Die With A Smile",
+        "sjanger": "pop",
+        "artist": "Lady Gaga, Bruno Mars",
+        "varighet": "3:15",
+        "avspillinger": 56000,
+        "sanglink": "https://open.spotify.com/embed/track/7so0lgd0zP2Sbgs2d7a1SZ?utm_source=generator&autoplay=true"
+    }, 
+
+    {
+        "navn": "Få det på",
+        "sjanger": "pop",
+        "artist": "Astrid S, Stig Brenner, Hver gang vi møtes",
+        "varighet": "3:19",
+        "avspillinger": 44000,  
+        "sanglink": "https://open.spotify.com/embed/track/1V9NWjMX2GRy0exAEGicsC?utm_source=generator&autoplay=true" 
+    }
+]
